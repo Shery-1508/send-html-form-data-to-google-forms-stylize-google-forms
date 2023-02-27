@@ -40,9 +40,13 @@ button[type="submit"]:hover {
 }
 
 .success {
+    font-size:large;
+    font-weight:700;
     color: green;
 }
 
 .error {
+    font-size:large;
+    font-weight:700;
     color: red;
 }
