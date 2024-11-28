@@ -15,8 +15,8 @@ A beginner-friendly guide to create a contact form that sends data to Google For
 ### Step 2: Get Your Form URL and Field IDs
 1. Click 'Send' button in your Google Form
 2. Copy the form URL and modify it:
-   - Original: `.../viewform`
-   - Change to: `.../formResponse`
+   - Original: `https://docs.google.com/forms/d/e/.../viewform`
+   - Change to: `https://docs.google.com/forms/d/e/.../formResponse`
 
 3. Get Field IDs (entry.xxxxxx):
    - Open form in browser
