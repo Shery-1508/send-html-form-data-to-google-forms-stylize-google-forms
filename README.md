@@ -1,5 +1,6 @@
-# HTML Contact Form with Google Forms Integration
+![image](https://github.com/user-attachments/assets/f51613b7-0cca-4ed6-bc80-5a26db6200f9)# HTML Contact Form with Google Forms Integration
 A beginner-friendly guide to create a contact form that sends data to Google Forms without any backend server.
+check [Web version](https://shery-1508.github.io/send-html-form-data-to-google-forms-stylize-google-forms/)
 
 ## 🚀 Quick Setup Guide
 
